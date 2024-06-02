@@ -1,4 +1,4 @@
-## Getting Started
+## Iniciando
 
 Para rodar o projeto localmente, clone o repositório e de os seguintes comandos:
 
